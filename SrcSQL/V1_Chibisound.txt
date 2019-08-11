@@ -1,0 +1,21 @@
+	
+	lea soundcommand,a3
+	move.b #$11,d0
+	Trap #1
+	jsr *
+	
+soundcommand:
+	dc.b $0A
+	dc.b 8
+	dc.w %1010101010101010
+	dc.w %1010101010101010
+	
+	dc.b 4	;Pitch 1
+	dc.b 128	;Pitch 2
+	dc.w 128	;interval
+	dc.w 128	;duration
+	dc.b %00000000 ; step-wrap
+	dc.b %00000000 ; random-fuzzy
+	
+	dc.b 0
+	even

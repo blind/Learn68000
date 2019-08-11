@@ -1,0 +1,2 @@
+SetPalette:
+	rts

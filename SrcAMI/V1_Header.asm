@@ -1,0 +1,8 @@
+
+
+
+
+
+
+AmigaInit:	
+	jsr ScreenINIT

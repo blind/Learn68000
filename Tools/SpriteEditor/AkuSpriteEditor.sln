@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkuSpriteEditor", "WindowsFormsApplication1\AkuSpriteEditor.csproj", "{6699205D-FCF4-48BB-AE9F-F8C62A68F18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6699205D-FCF4-48BB-AE9F-F8C62A68F18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6699205D-FCF4-48BB-AE9F-F8C62A68F18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6699205D-FCF4-48BB-AE9F-F8C62A68F18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6699205D-FCF4-48BB-AE9F-F8C62A68F18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

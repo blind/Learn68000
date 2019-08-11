@@ -1,0 +1,9 @@
+F:\Progs\SpriteEditor\WindowsFormsApplication1\bin\Release\ClsVbX.cs
+F:\Progs\SpriteEditor\WindowsFormsApplication1\bin\Release\AkuSpriteEditor.exe
+F:\Progs\SpriteEditor\WindowsFormsApplication1\bin\Release\AkuSpriteEditor.pdb
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\AkuSpriteEditor.Properties.Resources.resources
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\AkuSpriteEditor.csproj.GenerateResource.Cache
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\AkuSpriteEditor.exe
+F:\Progs\SpriteEditor\WindowsFormsApplication1\obj\Release\AkuSpriteEditor.pdb
